@@ -19,5 +19,19 @@ Chalenge beecrowd level 1
 1013		O Maior (sep07)
 1014		Consumo (sep07)
 
+1015		Distância Entre Dois Pontos (sep21)
+1016 		Distância (sep21)
+1017		Gasto de Combustível (sep21)
+
+1018		Cédulas	Sequencial	(oct13)
+1019		Conversão de Tempo	(oct13)
+1020		Idade em Dias (oct13)
+
+1021		Notas e Moedas (oct21)
+1035		Teste de Seleção (oct21) 
+1036		Fórmula de Bhaskara (oct21)
+1037		Intervalo (oct21)
+1038		Lanche (oct21)
+1040		Média (oct24)
 
 
