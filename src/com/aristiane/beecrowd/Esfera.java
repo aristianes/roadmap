@@ -13,7 +13,7 @@ public class Esfera {
 		Dica: Ao utilizar a fórmula, procure usar (4/3.0) ou (4.0/3), pois algumas linguagens (dentre elas o C++), 
 		assumem que o resultado da divisão entre dois inteiros é outro inteiro.
 		 */
-		 System.out.println(Math.pow(2,2));
+		
 		int raio = 0;
 		double pi = 3.14159;
 		double volume = 0;
